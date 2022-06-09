@@ -1,1 +1,1 @@
-Tic-Tac-Toe game
+A simple game created during the Odin Project course
