@@ -13,7 +13,7 @@ let winner;
         ++turns;  
 
         if (turns % 2 == 0) {
-            img.src = 'Tic-Tac-Toe/images/playO.png ';
+            img.src = 'images/playO.png';
             arrayQ[clicked_id] = 0;
         } else {
             img.src = 'Tic-Tac-Toe/images/X-Shape-PNG-High-Quality-Image.png ';
