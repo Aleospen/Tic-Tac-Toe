@@ -16,7 +16,7 @@ let winner;
             img.src = 'images/playO.png';
             arrayQ[clicked_id] = 0;
         } else {
-            img.src = 'Tic-Tac-Toe/images/X-Shape-PNG-High-Quality-Image.png ';
+            img.src = 'images/X-Shape-PNG-High-Quality-Image.png';
             arrayQ[clicked_id] = 1;
         }   
      
