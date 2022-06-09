@@ -13,10 +13,10 @@ let winner;
         ++turns;  
 
         if (turns % 2 == 0) {
-            img.src = 'file:///C:/Users/Dagon/Desktop/ProgProjects/Tic%20Tac%20Toe/images/playO.png';
+            img.src = 'Tic-Tac-Toe/images/playO.png ';
             arrayQ[clicked_id] = 0;
         } else {
-            img.src = 'file:///C:/Users/Dagon/Desktop/ProgProjects/Tic%20Tac%20Toe/images/X-Shape-PNG-High-Quality-Image.png';
+            img.src = 'Tic-Tac-Toe/images/X-Shape-PNG-High-Quality-Image.png ';
             arrayQ[clicked_id] = 1;
         }   
      
